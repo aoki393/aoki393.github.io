@@ -1,0 +1,8 @@
+几条基本命令：
+hexo cl
+hexo new 文件名
+hexo g
+hexo s
+ctrl + C 
+hexo d
+分别是clean清除之前生成的网页文件、新建、生成网页文件、生成并运行本地网页、停止运行本地网页、部署到github
